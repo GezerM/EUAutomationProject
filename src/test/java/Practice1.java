@@ -4,5 +4,8 @@ public class Practice1 {
         System.out.println("EU5 is liking Git on IntelliJ");
 
         System.out.println("WORK 1");
+
+        // succesfully puched project to GitHub
+        // first IntelliJ automaticaly created remote repp
     }
 }
