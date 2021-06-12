@@ -1,0 +1,1 @@
+This is the file directly added to GitHub.com, somebody did add it and i will pull to intellij
